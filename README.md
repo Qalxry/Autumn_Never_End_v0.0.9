@@ -1,6 +1,6 @@
 # Autumn_Never_End_v0.0.9
 
-[English](...)
+[English](https://github.com/Qalxry/Autumn_Never_End_v0.0.9/blob/main/docs/README_en.md)
 
 ## 基于 Windows 命令提示符的 C++ Galgame 简易演示
 

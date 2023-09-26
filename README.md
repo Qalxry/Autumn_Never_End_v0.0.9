@@ -2,6 +2,9 @@
 
 [English](https://github.com/Qalxry/Autumn_Never_End_v0.0.9/blob/main/docs/README_en.md)
 
+2022/11/10 - Verison 0.0.9
+初学C++所写代码，码风较差敬请谅解。
+
 ## 基于 Windows 命令提示符的 C++ Galgame 简易演示
 
 这是一个完全基于 Windows 命令提示符（CMD）的 Galgame 简易演示，它提供了基本功能，包括像素动画播放、使用“方正像素12”字体、音乐播放、像素图像显示（基于虚拟终端序列）、多缓冲渲染加速以及简单的用户交互。

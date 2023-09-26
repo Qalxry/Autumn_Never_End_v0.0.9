@@ -1,5 +1,9 @@
 # Autumn_Never_End_v0.0.9
 
+November 10, 2022 - Version 0.0.9
+
+Code created during my early stages of learning C++. I apologize for the less-than-ideal coding style, and I'm approaching this with a humble attitude. Please don't hesitate to offer constructive feedback.
+
 ## C++ Galgame Simple Demo Based on Windows Command Prompt
 
 This is a simple demo of a Galgame entirely based on the Windows Command Prompt (CMD). It provides basic functionality, including pixel animation playback, the use of the "Fangzheng Pixel 12" font, music playback, pixel image display (based on virtual terminal sequences), multi-buffer rendering acceleration, and simple user interaction.
